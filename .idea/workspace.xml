@@ -29,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -68,8 +68,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="395" />
-    <option name="y" value="65" />
+    <option name="x" value="1111" />
+    <option name="y" value="30" />
     <option name="width" value="768" />
     <option name="height" value="970" />
   </component>
@@ -133,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525367448189</updated>
-      <workItem from="1525367452779" duration="6478000" />
+      <workItem from="1525367452779" duration="7029000" />
     </task>
     <task id="LOCAL-00001" summary="adding css code">
       <created>1525501532445</created>
@@ -198,14 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1525587300234</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Declaring a Winner">
+      <created>1525587490300</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1525587490300</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6478000" />
+    <option name="totallyTimeSpent" value="7029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="910" y="38" width="614" height="776" extended-state="0" />
+    <frame x="889" y="24" width="614" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.27732942" />
@@ -242,7 +249,8 @@
     <MESSAGE value="Lifting State Up" />
     <MESSAGE value="Functional Components" />
     <MESSAGE value="Taking Turns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Taking Turns" />
+    <MESSAGE value="Declaring a Winner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Declaring a Winner" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -267,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
