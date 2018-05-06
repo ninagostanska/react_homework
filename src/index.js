@@ -4,7 +4,9 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render( < App / >, document.getElementById('root')
+)
+;
 registerServiceWorker();
 
 
@@ -15,18 +17,19 @@ class Square extends React.Component {
             value: null,
         };
     }
+
     render() {
         return (
             <button className="square" onClick={() => this.setState({value: 'X'})}>
         {this.state.value}
-            </button>
+    </button>
     );
     }
 }
 
 class Board extends React.Component {
     renderSquare(i) {
-        return <Square value={i} />;
+        return <Square />;
     }
 
     render() {
